@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    gap: 10px;
+}
+.item {
+  width: 193px;
+  cursor: pointer;
+}
+.image {
+  border-radius: 5px;
+}
